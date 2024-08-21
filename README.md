@@ -42,4 +42,4 @@ The site is built using:
 
    ```bash
    
-   git clone https://github.com/Firas-AL-Ahmad/Our-Team-Card.git
+   git clone  https://github.com/FirasAL-Ahmad/Our-Team-Card.git
